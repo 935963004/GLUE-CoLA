@@ -2,7 +2,7 @@
 
 This is the report for the course project of *Natural Language Processing*, CS229, by Prof. Hai Zhao.
 
-* **Author:** Jiang Weibang (516030910593)
+* **Author:** Jiang Weibang (517030910402)
 * **Email:** 935963004@sjtu.edu.cn
 * **Affiliation:** ACM Honored Class, Zhiyuan College, SJTU
 
