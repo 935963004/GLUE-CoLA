@@ -6,7 +6,7 @@ This is the report for the course project of *Natural Language Processing*, CS22
 * **Email:** 935963004@sjtu.edu.cn
 * **Affiliation:** ACM Honored Class, Zhiyuan College, SJTU
 
-I will introduce the model I used for this task, which is Electra. And I will then showing how to run the codes. Also the result on the public GLUE benchmark is shown in the appendix at the bottom.
+I will introduce the model I used for this task, which is Electra. And I will then showing how to run the codes. Also the results on the public GLUE benchmark is shown in the appendix at the bottom.
 
 ## Models
 ### Pretrained ELECTRA
